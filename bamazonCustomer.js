@@ -1,4 +1,3 @@
-var prompt = require('prompt');
 var inquirer = require('inquirer');
 var mysql = require('mysql');
 var input1 = process.argv[2];
